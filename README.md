@@ -7,3 +7,4 @@
 4. simpleinterest : This program calculates simple interest
 5. merge2txtfiles : This program merges two text files and creates a third.
 6. datetime_timestamp : This program prints both datetime and timestamp.
+7. heart : This program draws a heart and clors it in red.
