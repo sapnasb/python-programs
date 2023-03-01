@@ -10,3 +10,4 @@
 7. heart : This program draws a heart and colors it in red.
 8. Roll_A_Dice : This program creates a roll button that randomly generates a dice number from 1 to 6 similar to a rolling of a dice. 
 9. qrcode : This program creates a qr code and can decode the qr code too. #png image attached with same name
+10. snakesays : This program generates an ASCII art picture of a snake with a message.
