@@ -12,3 +12,4 @@
 9. qrcode : This program creates a qr code and can decode the qr code too. #png image attached with same name
 10. snakesays : This program generates an ASCII art picture of a snake with a message.
 11. passgen : This program is a simple password generator.
+12. p_e : This program prints the exifdata of the image.
